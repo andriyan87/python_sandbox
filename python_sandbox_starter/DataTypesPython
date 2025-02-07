@@ -13,3 +13,6 @@ secondName = 'Atanasov'
 print(firstName + secondName)
 # boolean
 
+
+#
+
