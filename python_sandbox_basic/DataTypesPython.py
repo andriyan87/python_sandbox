@@ -8,10 +8,17 @@ print(number)
 floatNumber = 2.34
 print(floatNumber)
 # string "Just text" or everything between "" or ''
-firstName = "Andriyan "
+firstName = 'Andriyan '
 secondName = 'Atanasov'
 print(firstName + secondName)
 # boolean
+is_true = True
+is_false = False
+
+
+
+
+
 
 
 
