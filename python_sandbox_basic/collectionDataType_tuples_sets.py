@@ -32,7 +32,7 @@ del fruits2
 fruits_set = {'Apples', 'Bananas', 'Mango'}
 
 # Check if in set
-print('Apples' in fruits_set)
+# print('Apples' in fruits_set)
 
 # Add to duplicate
 fruits_set.add('Apples')
@@ -49,6 +49,8 @@ fruits_set.add('Apples')
 # del fruits_set
 
 print(fruits_set)
+
+
 
 
 
