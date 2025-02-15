@@ -58,5 +58,5 @@ people = [
           'town': 'Varna'}
 ]
 
-print(people[0]['town'])
+print(people[0]['age'])
 
