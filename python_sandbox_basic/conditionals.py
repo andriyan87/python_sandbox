@@ -50,7 +50,7 @@ y = 88
 # if not(x == y):
 #     print(f'number {x} is not equal to  {y}')
 
-# Membership operators (not , not in )
+# Membership operators (in , not in )
 
 
 numbers = [1, 2, 3, 4, 5, 70]
