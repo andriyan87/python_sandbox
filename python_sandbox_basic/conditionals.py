@@ -72,14 +72,14 @@ numbers = [1, 2, 3, 4, 5, 70]
 # if person is not person2:
 #     print(person is not person2)
 
-# personTuple = ('name', 'Andriyan')
-# personTuple2 = ('name', 'Andriyan')
+personTuple = ('name', 'Andriyan')
+personTuple2 = ('name', 'Andriyan')
 
 # personsList = ['name', 'Andriyan']
 # personpersonsList2 = ['name', 'Andriyan']
 
-# if personsList is not  personpersonsList2:
-#     print(personsList is not personpersonsList2)
+if personTuple is   personTuple2:
+    print(personTuple is  personTuple2)
 
 # if x is  y:
 #     print(x is  y)
